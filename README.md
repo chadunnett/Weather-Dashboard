@@ -1,1 +1,2 @@
 # Weather-Dashboard
+This weather dashboard lets you get the weather for any city you search. It uses the OpenWeatherMap APIs it finds the coordinates of the city you search then gets the 5 day forcast. 
